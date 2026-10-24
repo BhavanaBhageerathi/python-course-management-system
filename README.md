@@ -87,15 +87,24 @@ Screenshots demonstrating the application's interface and functionality will be 
 
 ### Main Menu
 
-![Course Management System Main Menu](screenshots/main-menu.png)
+![Course Management System Main Menu](screenshots/main_menu.png)
+
+###Login Logout Exit
+
+![Course Management Operations](screenshots/register_user.png)
+![Course Management Operations](screenshots/login.png)
+![Course Management Operations](screenshots/logout.png)
+![Course Management Operations](screenshots/exit.png)
 
 ### Course List
 
-![Course List](screenshots/course-list.png)
+![Course List](screenshots/list_course.png)
 
 ### Course Management
 
-![Course Management Operations](screenshots/course-management.png)
+![Course Management Operations](screenshots/add_course.png)
+![Course Management Operations](screenshots/edit_course.png)
+![Course Management Operations](screenshots/delete_course.png)
 
 ## Security Considerations
 
